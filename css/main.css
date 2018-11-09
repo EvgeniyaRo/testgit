@@ -1,0 +1,13 @@
+
+body{
+	background-image: url(data:image/svg+xml;base64,DQoJDQogICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciDQogICAgeG1s%0D%0AbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiDQogICAgIHdpZHRoPSIxMDAi%0D%0AIGhlaWdodD0iMTAwIj4NCgkgICAgICAgIDxkZWZzPg0KCSAgICAgICAgICAgIDxwYXR0ZXJuIGlk%0D%0APSJwb2xrYS1kb3RzIiB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcGF0dGVy%0D%0AblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+DQoJICAgICAgICAgICAgICAgIDxjaXJjbGUgZmlsbD0i%0D%0AI2JlZTllOCIgY3g9IjUwIiBjeT0iNTAiIHI9IjI1IiAvPg0KCSAgICAgICAgICAgIDwvcGF0dGVy%0D%0Abj4NCgkgICAgICAgIDwvZGVmcz4NCg0KCSAgICAgICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9%0D%0AIjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNwb2xrYS1kb3RzKSIgLz4NCgk8L3N2Zz4N%0D%0ACg0K);
+	background-color: #2e4057;
+}
+
+div {
+	margin-top: 20%;
+	text-align: center;
+	color: green;
+	font-size: 2em;
+	text-shadow: 5px 5px 5px black;	
+}
